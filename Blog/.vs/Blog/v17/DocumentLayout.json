@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Blog\\Areas\\Admin\\Views\\Shared\\_LoginLayout.cshtml",
               "ToolTip": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Areas\\Admin\\Views\\Shared\\_LoginLayout.cshtml",
               "RelativeToolTip": "Blog\\Areas\\Admin\\Views\\Shared\\_LoginLayout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-03T12:53:25.362Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Blog\\Program.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAACgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T12:17:16.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T12:17:16.705Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Blog\\Areas\\Admin\\Views\\User\\Login.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T12:10:37.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T12:10:37.029Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Blog\\Areas\\Admin\\Controllers\\UserController.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAjwCUAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T15:11:31.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T15:11:31.453Z"
             }
           ]
         }
