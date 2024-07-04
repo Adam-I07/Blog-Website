@@ -8,13 +8,11 @@ namespace Blog.Controllers
             return View();
         }
 
-        public IActionResult Contact()
-        {
+        public IActionResult Contact() {
             return View();
         }
 
-        public IActionResult PrivacyPolicy()
-        {
+        public IActionResult PrivacyPolicy() {
             return View();
         }
     }
