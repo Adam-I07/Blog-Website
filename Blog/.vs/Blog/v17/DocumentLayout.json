@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\Projects\\Blog-Website\\Blog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|d:\\projects\\blog-website\\blog\\blog\\areas\\admin\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|solutionrelative:blog\\areas\\admin\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|d:\\projects\\blog-website\\blog\\blog\\areas\\admin\\views\\setting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|solutionrelative:blog\\areas\\admin\\views\\setting\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|d:\\projects\\blog-website\\blog\\blog\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|solutionrelative:blog\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Blog-Website\\Blog\\Blog\\Migrations\\20240718120517_SettingAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blog\\Migrations\\20240718120517_SettingAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|d:\\projects\\blog-website\\blog\\blog\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|solutionrelative:blog\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|d:\\projects\\blog-website\\blog\\blog\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|solutionrelative:blog\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|d:\\projects\\blog-website\\blog\\blog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{67E93D5B-A3F1-4EDA-9A57-EC49C502CF0D}|Blog\\Blog.csproj|solutionrelative:blog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +58,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Areas\\Admin\\Views\\Setting\\Index.cshtml",
+              "RelativeDocumentMoniker": "Blog\\Areas\\Admin\\Views\\Setting\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Areas\\Admin\\Views\\Setting\\Index.cshtml",
+              "RelativeToolTip": "Blog\\Areas\\Admin\\Views\\Setting\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T12:13:34.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SettingController.cs",
+              "DocumentMoniker": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "RelativeDocumentMoniker": "Blog\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "ToolTip": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "RelativeToolTip": "Blog\\Areas\\Admin\\Controllers\\SettingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:12:34.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Blog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Blog\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAF8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T12:09:08.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240718120517_SettingAdded.cs",
+              "DocumentMoniker": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Migrations\\20240718120517_SettingAdded.cs",
+              "RelativeDocumentMoniker": "Blog\\Migrations\\20240718120517_SettingAdded.cs",
+              "ToolTip": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Migrations\\20240718120517_SettingAdded.cs",
+              "RelativeToolTip": "Blog\\Migrations\\20240718120517_SettingAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:05:17.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Blog\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Blog\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:04:11.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "Blog\\Models\\Setting.cs",
+              "ToolTip": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Models\\Setting.cs",
+              "RelativeToolTip": "Blog\\Models\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T11:55:48.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Blog\\Views\\Shared\\_Layout.cshtml",
@@ -47,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "PrivacyPolicy.cshtml",
               "DocumentMoniker": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Views\\Page\\PrivacyPolicy.cshtml",
               "RelativeDocumentMoniker": "Blog\\Views\\Page\\PrivacyPolicy.cshtml",
@@ -55,12 +157,11 @@
               "RelativeToolTip": "Blog\\Views\\Page\\PrivacyPolicy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-17T13:14:45.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T13:14:45.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Views\\Page\\Contact.cshtml",
               "RelativeDocumentMoniker": "Blog\\Views\\Page\\Contact.cshtml",
@@ -68,12 +169,11 @@
               "RelativeToolTip": "Blog\\Views\\Page\\Contact.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-17T13:12:57.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T13:12:57.643Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "About.cshtml",
               "DocumentMoniker": "D:\\Projects\\Blog-Website\\Blog\\Blog\\Views\\Page\\About.cshtml",
               "RelativeDocumentMoniker": "Blog\\Views\\Page\\About.cshtml",
@@ -81,8 +181,7 @@
               "RelativeToolTip": "Blog\\Views\\Page\\About.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-17T11:53:43.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T11:53:43.495Z"
             }
           ]
         }
