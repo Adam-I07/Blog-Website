@@ -1,4 +1,5 @@
 ﻿using Blog.Models;
+using X.PagedList;
 
 namespace Blog.ViewModels
 {
@@ -7,7 +8,7 @@ namespace Blog.ViewModels
         public string? Title { get; set; }
         public string? ShortDescription { get; set; }
         public string? ThumbnailUrl { get; set; }
-        public List<Post>? Posts { get; set; }
+        public IPagedList<Post>? Posts { get; set; }
 
     }
 }
